@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @jrumpe
-- 👀 I’m interested in Mobile & Micro-Service Development.
-- 🌱 I’m currently learning Java, Kotlin & Docker.
-- 💞️ I’m looking to collaborate on Mobile App Development(Java, Kotlin & Ionic), Java & Kotlin Multiplatform.
-- 📫 How to reach me email: jrumpe@gmail.com.
+✅ 5+ Years professional experience as Back-end Software Engineer in Java (Spring Boot).
 
-<!---
-jrumpe/jrumpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✅ Strong coding ability with Java,  Kotlin, JavaScript & TypeScript.
+
+✅ Experience in Designing and Developing the highly efficient and scalable software solutions.
+
+✅ Have directly impactful working experience in Different Sectors (e.g. Data Analytics, Insurance, e-commerce, payment, education, food delivery & health sector)
+
+✅ Have working experience in CI/CD pipelines in Azure, Github Actions.
+
+✅ Passionate about learning new technology and skills.
+
+How to reach me Email: jrumpe@gmail.com.
